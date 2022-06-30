@@ -1,5 +1,5 @@
 # speech-to-text-golang
-speech-to-text-golangは、Google Cloud Speech-to-Text APIをGolangランタイムで動かすための手順概要です。
+speech-to-text-golangは、Google Cloud Speech-to-Text APIをGolangランタイムで動かすためのマイクロです。
 
 ## 動作環境
 - Ubuntu (18.04 LTS)
